@@ -1,6 +1,6 @@
 /*Değişkenler*/
 
-// Anahtar kelimeler: var, let, cons
+// Anahtar kelimeler: var, let, const
 
 /* var ve let aynı özelliklere sahiptir. let ilerde değişebilecek değişkenler için kullanılır*/
 
