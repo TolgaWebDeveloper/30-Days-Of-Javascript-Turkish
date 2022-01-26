@@ -1,5 +1,6 @@
 /*primitive (ilkel) data-types*/
 
+/* typeof değerin türünü sorgular ve konsola değerin türünü döndürür */
 console.log(typeof "Yazı") //String
 console.log(typeof 27) //Number
 console.log(typeof true) //boolean
