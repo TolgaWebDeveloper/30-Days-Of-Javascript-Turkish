@@ -34,6 +34,20 @@ console.log("merhaba".toUpperCase()) // bu şekilde MERHABA olarak konsola geldi
 
 console.log("MERHABA".toLowerCase()) // bu şekilde merhaba olarak konsola geldi
 
+//substring 
+
+/* substring bizim için cümlede sadece istediğimiz alanı seçer ve diğerlerini cümleden çıkarır */
+
+let cümle = "merhaba dünya"
+
+console.log(cümle.substring(7,13)) // burda 7.karakterden 13.karaktere kadar olan dünya yazısını aldık
+
+//slice 
+
+/*slice ise substring alternatifidir. aynı işi yapar */
+
+console.log(cümle.slice(7)) // burda sadece tek bir değer verirsek o değerden bitişe kadar olan kelimeyi alır. bu şekilde dünya yazısnı aldık
+
 
 //split
 
